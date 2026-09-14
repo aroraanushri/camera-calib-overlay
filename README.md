@@ -9,6 +9,9 @@ Use `camera_calib.py` to overlay a reference image on a live camera feed and adj
 python3 camera_calib.py path/to/reference_image.png --camera 0
 ```
 
+<img width="2560" height="1440" alt="Screenshot from 2026-07-03 18-10-22" src="https://github.com/user-attachments/assets/6e419180-90c9-4ff8-8054-13b65affd61c" />
+
+
 ### Notes
 
 * `path/to/reference_image.png` is the image you want to calibrate against.
